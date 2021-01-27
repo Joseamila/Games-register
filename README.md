@@ -1,1 +1,1 @@
-# Games-register
+# gamesToPlay
